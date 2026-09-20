@@ -39,25 +39,22 @@
   <img src="https://img.shields.io/github/last-commit/ZackGood/ZackGood?style=flat-square&label=Updated&color=45B36B" alt="Last update">
 </p>
 
-<table align="center" cellpadding="5">
-  <tr>
-    <td align="center">
-      <b>Top languages</b><br>
-      <img src="https://img.shields.io/badge/Python-98.7%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"><br>
-      <img src="https://img.shields.io/badge/C%23-Developer-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br>
-      <img src="https://img.shields.io/badge/HTML5-Developer-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-    </td>
-    <td align="center">
-      <b>Project activity</b><br>
-      <img src="https://img.shields.io/github/commit-activity/y/ZackGood/AR-V2?style=flat-square&label=Commits%20this%20year&color=45B36B" alt="AR-V2 commits this year"><br>
-      <img src="https://img.shields.io/github/issues/ZackGood/AR-V2?style=flat-square&label=Open%20issues&color=E85D75" alt="Open issues">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="135" alt="GitHub streak"></td>
-  </tr>
-</table>
+<p align="center">
+  <b>Top languages</b><br>
+  <img src="https://img.shields.io/badge/Python-98.7%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-Developer-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/HTML5-Developer-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/ZackGood/AR-V2?style=flat-square&label=AR-V2%20commits&color=45B36B" alt="AR-V2 commits">
+  <img src="https://img.shields.io/github/issues/ZackGood/AR-V2?style=flat-square&label=Open%20issues&color=E85D75" alt="Open issues">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8" width="390" alt="GitHub streak">
+</p>
 
 <p align="center">
   <i>Focused on clean implementation, useful automation, and shipping projects that solve real problems.</i>

@@ -35,14 +35,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ZackGood?style=flat-square&label=Followers&color=2CA5E0" alt="Followers">
-  <img src="https://img.shields.io/github/public-repos/ZackGood?style=flat-square&label=Public%20repos&color=8A63D2" alt="Public repositories">
+  <img src="https://img.shields.io/github/stars/ZackGood/AR-V2?style=flat-square&label=AR-V2%20stars&color=8A63D2" alt="AR-V2 stars">
   <img src="https://img.shields.io/github/last-commit/ZackGood/ZackGood?style=flat-square&label=Updated&color=45B36B" alt="Last update">
 </p>
 
 <table align="center" cellpadding="5">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackGood&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="150" alt="Top languages"></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZackGood&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="150" alt="GitHub stats"></td>
+    <td align="center">
+      <b>Top languages</b><br>
+      <img src="https://img.shields.io/github/languages/top/ZackGood/AR-V2?style=flat-square&label=AR-V2&color=3776AB" alt="Top language in AR-V2"><br>
+      <img src="https://img.shields.io/github/languages/count/ZackGood/AR-V2?style=flat-square&label=Languages&color=8A63D2" alt="Languages used in AR-V2">
+    </td>
+    <td align="center">
+      <b>Project activity</b><br>
+      <img src="https://img.shields.io/github/commit-activity/y/ZackGood/AR-V2?style=flat-square&label=Commits%20this%20year&color=45B36B" alt="AR-V2 commits this year"><br>
+      <img src="https://img.shields.io/github/issues/ZackGood/AR-V2?style=flat-square&label=Open%20issues&color=E85D75" alt="Open issues">
+    </td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="135" alt="GitHub streak"></td>

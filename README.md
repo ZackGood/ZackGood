@@ -43,8 +43,10 @@
   <tr>
     <td align="center">
       <b>Top languages</b><br>
-      <img src="https://img.shields.io/github/languages/top/ZackGood/AR-V2?style=flat-square&label=AR-V2&color=3776AB" alt="Top language in AR-V2"><br>
-      <img src="https://img.shields.io/github/languages/count/ZackGood/AR-V2?style=flat-square&label=Languages&color=8A63D2" alt="Languages used in AR-V2">
+      <img src="https://img.shields.io/badge/Python-98.7%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"><br>
+      <img src="https://img.shields.io/badge/C%23-Developer-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br>
+      <img src="https://img.shields.io/badge/HTML5-Developer-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     </td>
     <td align="center">
       <b>Project activity</b><br>

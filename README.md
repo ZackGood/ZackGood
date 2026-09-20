@@ -1,8 +1,8 @@
-<h1 align="center">ZackGood</h1>
+<h2 align="center">ZackGood</h2>
 
 <p align="center">
   <b>Hunter Dev · Script Builder · Security-Minded Developer</b><br>
-  I build scripts, automation, developer tools, and security-focused projects.
+  Scripts, automation, developer tools, and security-focused projects.
 </p>
 
 <p align="center">
@@ -12,26 +12,22 @@
   <img src="https://komarev.com/ghpvc/?username=ZackGood&style=flat-square&color=2CA5E0" alt="Profile views">
 </p>
 
-<h3 align="center">⚡ What I build</h3>
-
 <p align="center">
-  Scripts · Automation · Hacking &amp; Security Research · API Tools · Web Utilities
-</p>
-
-<h3 align="center">🧰 Core stack</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" alt="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" alt="C#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" alt="HTML5">
+  ⚡ Scripts · Automation · Hacking &amp; Security Research · API Tools · Web Utilities
 </p>
 
 <p align="center">
-  <b>Exploring:</b> ethical hacking, reconnaissance, web security, reverse engineering, and new technologies.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML5">
 </p>
 
-<h3 align="center">📈 GitHub analytics</h3>
+<p align="center">
+  <b>Exploring:</b> ethical hacking · reconnaissance · web security · reverse engineering
+</p>
+
+<h3 align="center">📈 GitHub</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ZackGood?style=flat-square&label=Followers&color=2CA5E0" alt="Followers">
@@ -53,9 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8" width="390" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" width="300" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <i>Focused on clean implementation, useful automation, and shipping projects that solve real problems.</i>
+  <i>Clean code · Useful automation · Projects that solve real problems.</i>
 </p>

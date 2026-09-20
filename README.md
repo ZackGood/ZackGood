@@ -27,6 +27,10 @@
   <b>Exploring:</b> ethical hacking · reconnaissance · web security · reverse engineering
 </p>
 
+<p align="center">
+  🎓 <b>AI Graduate</b> — Claude &amp; ChatGPT University <i>(just kidding 😄)</i>
+</p>
+
 <h3 align="center">📈 GitHub</h3>
 
 <p align="center">

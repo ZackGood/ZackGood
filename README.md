@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" alt="C#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" alt="HTML5">
 </p>
 
@@ -30,21 +31,21 @@
   <b>Exploring:</b> ethical hacking, reconnaissance, web security, reverse engineering, and new technologies.
 </p>
 
-<h3 align="center">📈 GitHub activity</h3>
+<h3 align="center">📈 GitHub analytics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ZackGood?style=flat-square&label=Followers&color=2CA5E0" alt="Followers">
-  <img src="https://img.shields.io/github/commit-activity/y/ZackGood/ZackGood?style=flat-square&label=Profile%20commits&color=8A63D2" alt="Profile commits">
+  <img src="https://img.shields.io/github/public-repos/ZackGood?style=flat-square&label=Public%20repos&color=8A63D2" alt="Public repositories">
   <img src="https://img.shields.io/github/last-commit/ZackGood/ZackGood?style=flat-square&label=Updated&color=45B36B" alt="Last update">
 </p>
 
-<table align="center" cellpadding="4">
+<table align="center" cellpadding="5">
   <tr>
-    <td align="center"><img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="125" alt="GitHub streak"></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/issues/ZackGood/AR-V2?style=flat-square&label=AR-V2%20issues&color=E85D75" alt="AR-V2 issues"><br>
-      <img src="https://img.shields.io/github/stars/ZackGood/AR-V2?style=flat-square&label=AR-V2%20stars&color=F0A202" alt="AR-V2 stars">
-    </td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackGood&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="150" alt="Top languages"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZackGood&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="150" alt="GitHub stats"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=ZackGood&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="135" alt="GitHub streak"></td>
   </tr>
 </table>
 

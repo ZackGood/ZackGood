@@ -1,8 +1,8 @@
 <h1 align="center">ZackGood</h1>
 
 <p align="center">
-  <b>Software Developer · Automation Builder · Toolmaker</b><br>
-  I design practical software, automate repetitive workflows, and build reliable tools.
+  <b>Hunter Dev · Script Builder · Security-Minded Developer</b><br>
+  I build scripts, automation, developer tools, and security-focused projects.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <h3 align="center">⚡ What I build</h3>
 
 <p align="center">
-  Automation systems · Developer tools · API integrations · Web utilities
+  Scripts · Automation · Hacking &amp; Security Research · API Tools · Web Utilities
 </p>
 
 <h3 align="center">🧰 Core stack</h3>
@@ -24,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" alt="C++">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" alt="HTML5">
+</p>
+
+<p align="center">
+  <b>Exploring:</b> ethical hacking, reconnaissance, web security, reverse engineering, and new technologies.
 </p>
 
 <h3 align="center">📈 GitHub activity</h3>
